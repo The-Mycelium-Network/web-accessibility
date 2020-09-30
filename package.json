@@ -26,6 +26,6 @@
     "fs-extra": "6.0.1",
     "pa11y": "5.0.3",
     "pa11y-reporter-html": "2.0.0",
-    "puppeteer": "1.13.0"
+    "puppeteer": "5.3.1"
   }
 }
