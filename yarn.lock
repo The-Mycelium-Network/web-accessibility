@@ -2091,10 +2091,10 @@ pa11y-reporter-html@2.0.0:
   dependencies:
     hogan.js "^3.0.2"
 
-pa11y@6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/pa11y/-/pa11y-6.2.0.tgz#bb8fbc9f556fdc3b9814881d7c811454b261e2e8"
-  integrity sha512-p0EwAP7lt4VA23TMwcmImC2rtyzk78cJc7wQudvnIydsXAO8MLFVAb705CKx+4gse7pPYzUouwbCXSEqJvUmJw==
+pa11y@6.2.2:
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/pa11y/-/pa11y-6.2.2.tgz#fa548c3931a045c6aa9996d261f5d7dd9418dc08"
+  integrity sha512-+RKOKBiFQYQCbV1qRWJ88A+8bEKPWv4amw7G9/4F7XCkMiLlIpFw+/MgiAKb7z7mARdazxn26HDZ3PxAGJEpDA==
   dependencies:
     axe-core "~4.2.1"
     bfj "~7.0.2"
